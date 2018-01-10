@@ -1,0 +1,86 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+
+li {
+	padding-left: 15px;
+	vertical-align: middle;
+}
+
+input {
+	width: 650px;
+}
+
+ul {
+	display: flex;
+	justify-content: flex-end;
+	list-style-type: none;
+	font: 13px, arial, sans-serif;
+	height: 24px;
+}
+
+footer {
+	margin-top: 320px;
+	background-color: rgb(242, 242, 242);
+}
+
+p {
+	border-bottom: black;
+}
+
+.conditions {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.connexion {
+	background-color: rgb(68,122,253);
+	color: white;
+	font-weight: bold;
+}
+
+.options {
+	background-color: rgb(242, 242, 242);
+	padding: 5px;
+}
+
+#menu {
+	display: flex;
+	justify-content: flex-end;
+	list-style-type: none;
+	font: 13px, arial, sans-serif;
+	height: 24px;
+}
+
+#recherche {
+	width: 550px;
+	height: 35px;
+	display: flex;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#bouton {
+	display: flex;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo {
+	display: flex;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top : 170px;
+}
+
+#apps {
+	display: flex;
+	justify-content: flex-end;
+	list-style-type: none;
+	height: 24px;
+}
